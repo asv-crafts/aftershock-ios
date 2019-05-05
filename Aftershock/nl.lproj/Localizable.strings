@@ -1,7 +1,28 @@
 /* 
   Localizable.strings
   Aftershock
+  
+  Dutch translation by Rudi Timmermans.
 
   Created by Anatoly Vdovichev on 21/04/2019.
   Copyright © 2019 ASVCorp. All rights reserved.
 */
+"User name is not specified" = "Gebruikersnaam niet gespecifieerd";
+"Sysop name is too long" = "Gebruikersnaam moet langer zijn dan 36 tekens";
+"Station name is not specified" = "Naam van het systeem niet gespecificeerd";
+"Station name is too long" = "Systeem naam is langer dan 64 tekens";
+"Primary location of the station if not specified" = "De locatie is niet opgegeven";
+"Primary station location is longer than 72 symbols" = "De locatie is langer dan 72 tekens";
+"FTN-addresses of the station are not specified" = "FTN-adressen van het systeem zijn niet gespecificeerd";
+"Malformed FTN-addresses of the station" = "Onjuiste FTN-adressen van het systeem";
+"Nodelist attributes contain disallowed characters" = "Systeem attributen bevatten niet-toegestane tekens";
+"FTN-addresses of uplink node is not specified" = "FTN-adressen van uw uplink zijn niet gespecificeerd";
+"Malformed FTN-addresses of uplink node" = "Onjuiste FTN-addresses van uplink node";
+"Uplink Inet address not set" = "Uplink inet adres niet ingesteld";
+"Uplink inet address is incorrect" = "Uplink inet adres bevat onjuiste tekens";
+"Uplink TCP port is not set" = "Uplink TCP-poort is niet ingesteld";
+"Incorrect uplink TCP port is specified" = "Onjuiste Uplink TCP-poort is opgegeven";
+"Origin text must be not longer than 56 symbols" = "Origin tekst mag niet langer zijn dan 56 tekens";
+"Tearline must be not longer than 64 symbols" = "Tear Lijn mag niet meer dan 64 tekens zijn";
+"Incorrect value of default maximum messages number" = "Onjuiste waarde van maximum aantal berichten voor nieuwe gebieden";
+"Please open settings application and enter correct values" = "Open de instellingen en voer de juiste waarden in";
